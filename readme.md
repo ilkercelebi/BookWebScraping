@@ -1,5 +1,5 @@
-Kitap Web Scraping Projesi
-Bu proje, https://books.toscrape.com/ adresindeki kitapları tarayarak kitap detaylarını toplar. Kullanıcıların Travel ve Nonfiction kategorilerindeki kitap bilgilerini elde etmelerini sağlar. Toplanan veriler bir pandas DataFrame'e dönüştürülür.
+Kitap Web Scraping Projemde
+https://books.toscrape.com/ adresindeki kitapları tarayarak kitap detaylarını toplar. Kullanıcıların Travel ve Nonfiction kategorilerindeki kitap bilgilerini elde etmelerini sağlar. Toplanan veriler bir pandas DataFrame'e dönüştürülür.
 
 Özellikler
 Kategorilere göre kitapların URL'lerini bulur.

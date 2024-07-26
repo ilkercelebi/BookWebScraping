@@ -11,12 +11,12 @@ Bu projeyi çalıştırmak için aşağıdaki kütüphaneleri kurmanız gerekir:
 selenium
 pandas
 chromedriver (Google Chrome için)
+
 Gerekli kütüphaneleri yüklemek için aşağıdaki komutları kullanabilirsiniz:
 
-bash
-Kodu kopyala
 pip install selenium pandas
-Ayrıca, ChromeDriver'ı indirip kurmanız gerekiyor. ChromeDriver İndir
+
+Ayrıca, ChromeDriver'ı indirip kurmanız gerekiyor.
 
 Kullanım
 Kodun Çalıştırılması
